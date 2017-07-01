@@ -1,9 +1,11 @@
 # Project2Udacity
 Jinxin Hu
 
-Complete the project in three hours.
+Complete time: 4h. 
 
-I think the chanllenge for this project is how to set the cammara to the right place. 
+Challenging: Make Globe Spins.
+
+The thing I like in my project is the apartment light. Different light can give me different feeling in VR World. 
 
 gvr-unity-sdk-1.50.0
 
