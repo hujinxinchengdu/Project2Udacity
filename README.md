@@ -1,8 +1,6 @@
 # Project2Udacity
 Jinxin Hu
 
-Complete time: 4h. 
-
 Challenging: Make Globe Spins.
 
 The thing I like in my project is the apartment light. Different light can give me different feeling in VR World. 
